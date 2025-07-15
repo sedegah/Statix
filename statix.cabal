@@ -1,0 +1,15 @@
+cabal-version:       >=1.10
+name:                statix
+version:             0.1.0.0
+build-type:          Simple
+
+executable statix
+  main-is:             Main.hs
+  hs-source-dirs:      src
+  other-modules:       Analyzer, Scanner, Types
+  default-language:    Haskell2010
+  build-depends:       base >=4.14 && <5,
+                       directory,
+                       filepath,
+                       text,
+                       containers
