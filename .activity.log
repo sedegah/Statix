@@ -20,3 +20,4 @@
 // Update CLI output format
 // Add token count analysis
 // Fix parsing bug
+// Optimize Haskell module structure
