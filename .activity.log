@@ -80,3 +80,4 @@
 // Optimize Haskell module structure
 // Add token count analysis
 // Update CLI output format
+// Fix parsing bug
