@@ -93,3 +93,4 @@
 // Optimize Haskell module structure
 // Fix parsing bug
 // Fix parsing bug
+// Add token count analysis
